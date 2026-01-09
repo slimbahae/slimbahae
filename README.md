@@ -35,17 +35,6 @@ I focus on tools that build reliable, high-availability software.
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
----
-
-### 🚀 Engineering Highlights
-
-I don't just write code; I build solutions. Here are a few selected projects:
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **💳 Payment Gateway Core** | A high-fidelity simulation of transactional flows, handling payment processing logic and status reconciliation. | `Java` `Spring Boot` `Rest API` |
-| **🔐 Identity Management** | A secure authentication microservice implementing JWT (JSON Web Tokens) for stateless user session management. | `Spring Security` `Oauth2` `JPA` |
-| **📊 FinTech Dashboard** | Full-stack platform for visualizing complex financial datasets, featuring dynamic sorting and reporting algorithms. | `Angular` `Spring Boot` `MySQL` |
 
 ---
 
