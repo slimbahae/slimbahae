@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/slimbahae/slimbahae/main/banner.png" alt="Architecture Banner" width="100%" />
+
 
   <h1 style="font-size: 3rem; margin-bottom: 0;">Baha Eddine SLIMANI</h1>
   <h3 style="font-weight: normal; margin-top: 5px;">Backend Engineer | Systems Architecture | Java Ecosystem</h3>
